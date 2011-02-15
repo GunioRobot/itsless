@@ -12,7 +12,8 @@ to improve this interface.
 Installation
 ------------
 
-* itsless.user.js is the user script.
+* [itsless.user.js](https://github.com/fohlin/itsless/raw/master/itsless.user.js)
+  is the user script.
 * See the [Greasemonkey wiki](http://wiki.greasespot.net/Greasemonkey_Manual:Installing_Scripts)
   for detailed installation instructions.
 
