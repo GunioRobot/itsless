@@ -24,3 +24,11 @@ Screenshots
 * [Normal It's Learning homepage](http://homeweb.mah.se/~ctfroh/itsless/itsless-off.png)
 * [Homepage with It's Less](http://homeweb.mah.se/~ctfroh/itsless/itsless-on.png)
 
+
+Status
+------
+
+Currently, the main effects of It's Less are:
+
+* a minimized top menu (global)
+* a very minimized homepage
