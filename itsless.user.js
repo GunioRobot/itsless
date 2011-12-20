@@ -13,7 +13,7 @@
         // Minimize the stupid top frame:
     	document.getElementsByTagName("frameset")[0].rows = "26,*,0";
     }
-    
+
     // mainframe.aspx = top navigation frame
     if (String(window.location).indexOf("mainframe.aspx") != -1 ){
         GM_addStyle("\
@@ -22,7 +22,7 @@
                 #menu_mylibrary, #menu_search, #menu_admin { display:none !important; } \
         ");
     }
-    
+
     // mainmenu.aspx = main content of homepage (?!)
     if (String(window.location).indexOf("/main/mainmenu.aspx") != -1 ){
         GM_addStyle("\
